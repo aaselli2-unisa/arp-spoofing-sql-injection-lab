@@ -26,6 +26,6 @@ La relazione completa è disponibile in [`docs/progetto_relazione.pdf`](docs/pro
 
 ## Autore
 
-Andrea Aselli — Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud (LM-66), Università degli Studi di Salerno.
+Andrea Aselli
 
 Progetto realizzato a fini didattici in un ambiente di laboratorio isolato.
